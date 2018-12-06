@@ -1,12 +1,7 @@
-# gatsby-starter-hello-world
-Starter with the bare essentials needed for a [Gatsby](https://www.gatsbyjs.org/) site.
+# My Portfolio
+My Personal Portfolio built with [Gatsby](https://www.gatsbyjs.org/).
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-```
-gatsby new gatsby-site https://github.com/gatsbyjs/gatsby-starter-hello-world
-```
+ [view the live site here](https://gadjacobs.me/).
 
-Or [view the live demo here](https://gatsby-starter-hello-world-demo.netlify.com/).
-
-## Running in development
+## Run in development
 `gatsby develop`
