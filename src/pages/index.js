@@ -1,3 +1,10 @@
-import React from "react"
+import React from 'react';
+import Layout from '../components/layout';
 
-export default () => <div style={{ color: `purple`, fontSize: `72px`, textAlign: `center` }}>My Portfolio</div>
+export default () => (
+  <Layout>
+    <div>
+      My Portfolio
+    </div>
+  </Layout>
+);
