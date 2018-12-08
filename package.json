@@ -10,7 +10,16 @@
   },
   "dependencies": {
     "gatsby": "^2.0.33",
+    "gatsby-plugin-netlify-cms": "^3.0.9",
+    "immutable": "^3.8.2",
+    "netlify-cms": "^2.3.0",
     "react": "^16.5.1",
-    "react-dom": "^16.5.1"
+    "react-dom": "^16.5.1",
+    "redux": "^3.0.0",
+    "slate": "^0.33.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gadjacobs/portfolio.git"
   }
 }
