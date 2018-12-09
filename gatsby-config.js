@@ -4,5 +4,5 @@ module.exports = {
     siteUrl: `https://www.gadjacobs.me`,
     description: `My Personal Portfolio`
   },
-  plugins: [`gatsby-plugin-netlify-cms`],
+  plugins: [`gatsby-plugin-netlify-cms`, `gatsby-plugin-react-helmet`]
 };
