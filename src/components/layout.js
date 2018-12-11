@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './header';
 import Helmet from 'react-helmet';
 import loadScript from 'simple-load-script';
+import Footer from './footer';
 
 global.jQuery = require('jquery');
 
@@ -32,5 +33,9 @@ export default ({ children }) => (
     </Helmet>
     <Header />
     {children}
+
+    <footer className="pv4 ph3 ph5-ns tc">
+      <Footer />
+    </footer>
   </div>
 );
