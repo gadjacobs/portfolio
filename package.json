@@ -13,13 +13,16 @@
     "gatsby-plugin-netlify-cms": "^3.0.9",
     "gatsby-plugin-react-helmet": "^3.0.4",
     "immutable": "^3.8.2",
+    "jquery": "^3.3.1",
     "netlify-cms": "^2.3.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
     "react-icomoon": "^1.0.0",
     "redux": "^3.0.0",
-    "slate": "^0.33.3"
+    "simple-load-script": "^1.0.2",
+    "slate": "^0.33.3",
+    "tachyons": "^4.11.1"
   },
   "repository": {
     "type": "git",
