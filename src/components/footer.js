@@ -7,16 +7,16 @@ const Footer = () => {
       <SocialLinks />
       <div className="mt4">
         <a href="/" className="f6 link dim gray dib mr3 mr4-ns">
-          Help
+          About
         </a>
         <a href="/" className="f6 link dim gray dib mr3 mr4-ns">
-          Send feedback
+          Projects
         </a>
         <a href="/" className="f6 link dim gray dib mr3 mr4-ns">
-          Privacy
+          Blog
         </a>
         <a href="/" className="f6 link dim gray dib">
-          Terms
+          Contact Me
         </a>
       </div>
     </div>

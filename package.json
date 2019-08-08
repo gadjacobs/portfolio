@@ -21,7 +21,7 @@
     "react-icomoon": "^1.0.0",
     "redux": "^3.0.0",
     "simple-load-script": "^1.0.2",
-    "slate": "^0.33.3",
+    "slate": "^0.32.0",
     "tachyons": "^4.11.1"
   },
   "repository": {

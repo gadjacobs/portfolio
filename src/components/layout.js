@@ -33,7 +33,6 @@ export default ({ children }) => (
     </Helmet>
     <Header />
     {children}
-
     <footer className="pv4 ph3 ph5-ns tc">
       <Footer />
     </footer>
