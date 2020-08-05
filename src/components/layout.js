@@ -1,17 +1,17 @@
-import React from 'react';
-import Header from './header';
-import Helmet from 'react-helmet';
-import loadScript from 'simple-load-script';
-import Footer from './footer';
+import React from "react";
+import Header from "./header";
+import Helmet from "react-helmet";
+import loadScript from "simple-load-script";
+import Footer from "./footer";
 
-global.jQuery = require('jquery');
+global.jQuery = require("jquery");
 
 loadScript(
-  'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js',
+  "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js",
   { inBody: true }
 );
-loadScript('https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js', {
-  inBody: true
+loadScript("https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js", {
+  inBody: true,
 });
 
 export default ({ children }) => (
@@ -33,8 +33,8 @@ export default ({ children }) => (
     </Helmet>
     <Header />
     {children}
-    <footer className="pv4 ph3 ph5-ns tc">
+    {/* <footer className="pv4 ph3 ph5-ns tc">
       <Footer />
-    </footer>
+    </footer> */}
   </div>
 );
