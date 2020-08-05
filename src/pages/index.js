@@ -25,17 +25,17 @@ export default () => (
         </p>
       </div>
     </div>
-    <div className="tc">
-      <h1>My Projects</h1>
-      <Projects />
-    </div>
-    <div className="tc">
-      <h1>My Blog</h1>
-      <BlogPosts />
-    </div>
-    <div className="tc">
-      <h1>Contact Me</h1>
-      <p>Coming Soon!</p>
-    </div>
+//     <div className="tc">
+//       <h1>My Projects</h1>
+//       <Projects />
+//     </div>
+//     <div className="tc">
+//       <h1>My Blog</h1>
+//       <BlogPosts />
+//     </div>
+//     <div className="tc">
+//       <h1>Contact Me</h1>
+//       <p>Coming Soon!</p>
+//     </div>
   </Layout>
 );
