@@ -9,7 +9,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^2.0.33",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-netlify-cms": "^3.0.9",
     "gatsby-plugin-react-helmet": "^3.0.4",
     "immutable": "^3.8.2",
